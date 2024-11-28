@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Rossmann Universal Editor Demo
+This project is a demo of the Universal Editor for Rossmann.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--rossmannue--markusbulla.aem.page/
+- Live: https://main--rossmannue--markusbulla.aem.live/
 
 ## Installation
 
